@@ -1,5 +1,5 @@
 # VIETNAM_GDP_MODEL
-My name is Nguyen Duc Minh. I am the first-year student at FPT University, Da Nang campus. <br />
+My name is Nguyen Duc Minh. I am a first-year student at FPT University, Da Nang campus. <br />
 This is my machine learning project to construct a relationship between GDP of Vietnam
 and some factors that can significantly affect its growth. <br />
 After researching knowledge about GDP in Economics area, I chose:
