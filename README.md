@@ -10,11 +10,10 @@ After researching knowledge about GDP in Economics area, I chose:
 5. Gross domestic product at current prices divided by economic sector
 6. Consumer Price Index (CPI) 
 7. Producer Price Index (PPI) 
-8. Exchange Rate 
-9. Foreign Direct Investment (FDI) 
-10. Labor Force 15 Years and Older
-11. Natural Disaster 
-12. Population <br />
+8. Foreign Direct Investment (FDI) 
+9. Labor Force 15 Years and Older
+10. Natural Disaster 
+11. Population <br />
 Thanks to scikit-learn Python library, I constructed 3 machine learning models which are Linear Regression, Ridge Regression and Support Vector Regression. <br />
 I ultilized GridSearchCV to find out the most effective parameters of each model. After that, I visualized the mean errors
 made by each model in the validation sets:
